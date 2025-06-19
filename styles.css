@@ -1,0 +1,23 @@
+.navbar-estilo{
+    margin-bottom: 2rem;
+    padding: 3.5rem;
+}
+.imagen-perfil{
+    width: 25rem;
+    height: 25rem;
+    object-fit: cover;
+}
+.imagen-about-me{
+    width: 23rem;
+    height: 23rem;
+    object-fit: cover;
+}
+.gold-text{
+ color: #AF7627;
+}
+
+.bsb-timeline-1 {
+    --bsb-tl-color: #0f2950;
+    --bsb-tl-circle-color: #332f0c;
+}
+
